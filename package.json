@@ -1,0 +1,23 @@
+{
+  "name": "tdd-fcc",
+  "version": "1.0.0",
+  "description": "A run through of the Free Code Camp guide to Test-Driven Development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ldoot/tdd-fcc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ldoot/tdd-fcc/issues"
+  },
+  "homepage": "https://github.com/ldoot/tdd-fcc#readme",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
